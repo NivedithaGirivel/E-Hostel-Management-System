@@ -29,8 +29,8 @@
 
 
 ## Execution
-(i) Download Visual Studio Code and run login.html file.
-(ii) Download XAMPP and enable the Apache and Mysql server.
-(iii) Load the project files in a separate folder in htdocs directory of XAMPP
-(iv) Using PHP Admin in XAMPP import the database named users.
-(v) Run the application in your browser using "localhost/OOAD PROJECT"
+(i) Download Visual Studio Code and run login.html file. <br>
+(ii) Download XAMPP and enable the Apache and Mysql server. <br>
+(iii) Load the project files in a separate folder in htdocs directory of XAMPP <br>
+(iv) Using PHP Admin in XAMPP import the database named users. <br>
+(v) Run the application in your browser using "localhost/OOAD PROJECT" <br>
